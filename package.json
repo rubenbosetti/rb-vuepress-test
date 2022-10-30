@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/rubenbosetti/rb-vuepress-test#readme",
   "dependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "markdown-it-imsize": "^2.0.1",
+    "vuepress-markdown-it-wikilink": "^1.0.1",
+    "@andymatuschak/note-link-janitor": "file:./packages/note-link-janitor"
  }
 }
